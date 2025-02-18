@@ -5,7 +5,8 @@
 ## Descrição <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Bookmark Tabs" width="25" height="25" />
 Pagina frontal de uma page de Resort, funcionando como uma espécie de grupo, que o usuário buscaria um paradeiro nos diversos lugares que possuem parceria com este resort, tem como objetivo proporcionar uma experiência única, auxiliando o usuário na escolha da hospedagem ideal para momentos de descanso e diversão. 
 
-## Demostração do Layout <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" />
+## Demostração do Layout <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Window.png" alt="Window" width="25" height="25" /> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" /> [Link-Resort-Bacana](https://resort-bacana.vercel.app/)
+
 
 ![Tela-Funcional](./src/assets/Resort-Bacana.png)
 
